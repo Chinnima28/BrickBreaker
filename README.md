@@ -13,7 +13,8 @@ A simple Brick Breaker game implemented in Java using `JFrame`, `JPanel`, and Ja
 
 Here’s a snapshot of the game in action:
 
-![Game Snapshot](https://github.com/Chinnima28/BrickBreaker/blob/main/Brickbreaker%20Output.png)
+![Game Snapshot]
+https://github.com/Chinnima28/BrickBreaker/blob/b860ce5b9515f30861c5be67a23b0077ae1d01b8/Brickbreaker%20output.png
 
 ## How to Run
 
