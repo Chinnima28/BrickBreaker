@@ -36,5 +36,5 @@ Here’s a snapshot of the game in action:
    Use the left and right arrow keys to move the paddle and keep the ball in play.
 
 ## Code Structure
-**BrickBreaker.java:** Contains the main method to start the game.
-**GamePanel.java:** Contains the game logic, rendering, and user input handling.
+-**BrickBreaker.java:** Contains the main method to start the game.
+-**GamePanel.java:** Contains the game logic, rendering, and user input handling.
